@@ -47,6 +47,8 @@ Fercha Perez
 <details>
 <sumary> Haz click para desplegar mas información </sumary>
 
+</details>
 
-E=mc^2
+
+![gifgato](URL-de-la-imagen)
 
