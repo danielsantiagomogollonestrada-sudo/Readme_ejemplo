@@ -50,5 +50,5 @@ Fercha Perez
 </details>
 
 
-![gifgato](URL-de-la-imagen)
+![gif_1](ezgif.com-resize.gif)
 
